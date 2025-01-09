@@ -97,7 +97,7 @@
     "clean-publish": "^5.0.0",
     "concat-with-sourcemaps": "^1.1.0",
     "eslint": "^9.6.0",
-    "nanodelay": "^1.0.8",
+    "nanodelay": "^2.0.2",
     "nanospy": "^1.0.0",
     "postcss-parser-tests": "^8.8.0",
     "simple-git-hooks": "^2.11.1",
