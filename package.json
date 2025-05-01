@@ -102,7 +102,7 @@
     "postcss-parser-tests": "^8.8.0",
     "simple-git-hooks": "^2.11.1",
     "size-limit": "^11.1.4",
-    "strip-ansi": "^6.0.1",
+    "strip-ansi": "^7.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.2",
     "uvu": "^0.5.6"
