@@ -89,7 +89,7 @@
     "source-map-js": "^1.2.0"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^53.2.0",
+    "@logux/eslint-config": "^56.0.0",
     "@size-limit/preset-small-lib": "^11.1.4",
     "@types/node": "^22.10.2",
     "c8": "^10.1.2",
